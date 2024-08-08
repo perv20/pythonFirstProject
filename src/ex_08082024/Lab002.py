@@ -1,1 +1,7 @@
-print('Hello pk')
+a = int(input('enter a value='))
+b = int(input('enter value of b='))
+print(a + b, 'Addition operator')
+print(a - b, 'Addition operator')
+print(a * b, 'Addition operator')
+print(a % b, 'Addition operator')
+print(a / b, 'Addition operator')
