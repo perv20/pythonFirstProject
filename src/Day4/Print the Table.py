@@ -1,0 +1,5 @@
+table = int(input('enter the number= '))
+print(f"{table}*1={table*1}")
+print(f"{table}*2={table*2}")
+print(f"{table}*3={table*3}")
+print(f"{table}*6={table*6}")

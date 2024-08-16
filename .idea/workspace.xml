@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcf801a5-3dc9-4979-911f-3cf842749339" name="Changes" comment="Lab002 Added">
+      <change afterPath="$PROJECT_DIR$/src/Day2Python/Comparison Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2Python/InputFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2Python/Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2Python/Question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3Python/Area of square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3Python/Average Marks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3Python/Conditional Statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3Python/Temprature Converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3Python/elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/Decimal fix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/Number Matching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/Print the Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/RandomModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/StonePPRscesor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/max number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/power o num1 to num2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseString.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/Lab002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,20 +39,29 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "perv20"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;perv20&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/perv20/pythonFirstProject.git",
-    "accountId": "0dd53d0d-2187-420e-b800-fb25ba6f14b7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/perv20/pythonFirstProject.git&quot;,
+    &quot;accountId&quot;: &quot;0dd53d0d-2187-420e-b800-fb25ba6f14b7&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Day3Python/elif.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Day4/Number Matching.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -48,10 +75,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Area of square.executor": "Run",
+    "Python.Average Marks.executor": "Run",
+    "Python.Comparison Operator.executor": "Run",
+    "Python.Conditional Statement.executor": "Run",
+    "Python.Decimal fix.executor": "Run",
+    "Python.InputFunction.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
+    "Python.List.executor": "Run",
+    "Python.Number Matching.executor": "Run",
+    "Python.Operators.executor": "Run",
+    "Python.Print the Table.executor": "Run",
+    "Python.Question.executor": "Run",
+    "Python.RandomModule.executor": "Run",
+    "Python.ReverseString.executor": "Run",
+    "Python.Temprature Converter.executor": "Run",
+    "Python.elif.executor": "Run",
+    "Python.max number.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "if"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -78,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723110625641</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab002 Added">
+      <option name="closed" value="true" />
+      <created>1723127843158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723127843158</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

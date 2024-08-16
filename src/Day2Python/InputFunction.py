@@ -1,0 +1,5 @@
+a = int(input('enter name='))
+b = float(input("Enter num2="))
+print(a+b, 'Addition')
+print(a-b, 'substarction')
+print(a*b, 'multi')
