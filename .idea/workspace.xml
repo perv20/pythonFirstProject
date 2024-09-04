@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcf801a5-3dc9-4979-911f-3cf842749339" name="Changes" comment="all files" />
+    <list default="true" id="bcf801a5-3dc9-4979-911f-3cf842749339" name="Changes" comment="All files 18aug">
+      <change afterPath="$PROJECT_DIR$/src/API Automation/API Auto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data Types_Day5/Data Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data Types_Day5/Escape Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data Types_Day5/Formatted Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data Types_Day5/Print a table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data Types_Day5/Row Concept.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day4/Print the Table.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/Print the Table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day4/max number.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/max number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day4/power o num1 to num2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/power o num1 to num2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab003.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,31 +66,40 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in API Auto.py.executor": "Run",
     "Python.Area of square.executor": "Run",
     "Python.Average Marks.executor": "Run",
     "Python.Comparison Operator.executor": "Run",
     "Python.Conditional Statement.executor": "Run",
+    "Python.Data Types.executor": "Run",
     "Python.Decimal fix.executor": "Run",
+    "Python.Escape Literals.executor": "Run",
+    "Python.Formatted Number.executor": "Run",
     "Python.InputFunction.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
-    "Python.Lab004.executor": "Debug",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
     "Python.List.executor": "Run",
     "Python.Number Matching.executor": "Run",
     "Python.Operators.executor": "Run",
+    "Python.Print a table.executor": "Run",
     "Python.Print the Table.executor": "Run",
     "Python.Question.executor": "Run",
     "Python.RandomModule.executor": "Run",
     "Python.ReverseString.executor": "Run",
+    "Python.Row Concept.executor": "Run",
     "Python.Temprature Converter.executor": "Run",
     "Python.elif.executor": "Run",
     "Python.max number.executor": "Run",
+    "Python.power o num1 to num2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "if"
+    "git-widget-placeholder": "if",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Lab004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in API Auto.py">
+    <configuration name="Escape Literals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFirstProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Day4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Data Types_Day5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Day4/Lab004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Data Types_Day5/Escape Literals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,9 +121,94 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Formatted Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFirstProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Data Types_Day5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Data Types_Day5/Formatted Number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Print a table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFirstProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Data Types_Day5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Data Types_Day5/Print a table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Row Concept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFirstProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Data Types_Day5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Data Types_Day5/Row Concept.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in API Auto.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonFirstProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/API Automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/API Automation/API Auto.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab004" />
+        <item itemvalue="Python tests.Python tests in API Auto.py" />
+        <item itemvalue="Python.Formatted Number" />
+        <item itemvalue="Python.Row Concept" />
+        <item itemvalue="Python.Escape Literals" />
+        <item itemvalue="Python.Print a table" />
       </list>
     </recent_temporary>
   </component>
@@ -154,34 +260,22 @@
       <option name="project" value="LOCAL" />
       <updated>1723967213237</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="All files 18aug">
+      <option name="closed" value="true" />
+      <created>1723967495229</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723967495229</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 Added" />
     <MESSAGE value="max" />
     <MESSAGE value="all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="all files" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/Day4/Lab004.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/Day4/Lab004.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/Day4/Lab004.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="All files 18aug" />
+    <option name="LAST_COMMIT_MESSAGE" value="All files 18aug" />
   </component>
 </project>
